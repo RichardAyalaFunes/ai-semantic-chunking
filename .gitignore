@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+poetry.lock
+
+# Document files (PDFs, DOCs, etc.)
+files/
+*.pdf
+*.doc
+*.docx
+*.txt
